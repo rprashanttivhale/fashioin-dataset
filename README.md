@@ -1,4 +1,4 @@
-# fashioin-dataset
+# fashion-dataset
 Fashion Datasets using keras , we can train and test datasets to  improve the accuracy and decrease the loss.
 # How to Download the Datasets
 we can Download Fashion datasets  from keras datasets using load_data() and store it into the train and test variable
